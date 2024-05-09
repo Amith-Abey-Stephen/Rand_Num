@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+button{
+    font-size: 22px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.9s;
+}
+#value{
+    font-size: 5em;
+}
